@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T15:17:26 CEST" name="Suite" finished-at="2022-06-21T15:17:36 CEST" duration-ms="10168">
+    <groups>
+    </groups>
+    <test started-at="2022-06-21T15:17:26 CEST" name="Test" finished-at="2022-06-21T15:17:36 CEST" duration-ms="10168">
+      <class name="MyTest.UsernameTest">
+        <test-method is-config="true" signature="initilaization()[pri:0, instance:MyTest.UsernameTest@6fa51cd4]" started-at="2022-06-21T15:17:31 CEST" name="initilaization" finished-at="2022-06-21T15:17:34 CEST" duration-ms="3652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaization -->
+        <test-method signature="locators()[pri:0, instance:MyTest.UsernameTest@6fa51cd4]" started-at="2022-06-21T15:17:34 CEST" name="locators" finished-at="2022-06-21T15:17:35 CEST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locators -->
+      </class> <!-- MyTest.UsernameTest -->
+      <class name="MyTest.LocaterTest">
+        <test-method is-config="true" signature="initilaization()[pri:0, instance:MyTest.LocaterTest@1750fbeb]" started-at="2022-06-21T15:17:26 CEST" name="initilaization" finished-at="2022-06-21T15:17:31 CEST" duration-ms="4780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilaization -->
+        <test-method signature="locators()[pri:0, instance:MyTest.LocaterTest@1750fbeb]" started-at="2022-06-21T15:17:35 CEST" name="locators" finished-at="2022-06-21T15:17:36 CEST" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locators -->
+      </class> <!-- MyTest.LocaterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
