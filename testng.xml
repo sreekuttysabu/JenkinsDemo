@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="MyTest.UsernameTest"/>
-      <class name="MyTest.LocaterTest"/>
+      <class name="TestPackage.CreateSeizureTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

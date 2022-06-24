@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="LocaterTest">
+      <class name="MyTest.CreateSeizureTest">
         <methods>
-          <include name="locators"/>
+          <include name="deleteExistingSeizure"/>
           <include name="initilaization"/>
+          <include name="locators"/>
         </methods>
-      </class> <!-- LocaterTest -->
+      </class> <!-- MyTest.CreateSeizureTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
